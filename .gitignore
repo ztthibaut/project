@@ -2,5 +2,5 @@
 tmp
 *.swp~
 test
-test/.txt
+test/*.txt
 !test/master.txt
