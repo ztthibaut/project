@@ -3,4 +3,4 @@ tmp
 *.swp~
 test
 test/.txt
-!text/master.txt
+!test/master.txt
